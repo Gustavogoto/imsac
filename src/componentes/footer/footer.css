@@ -1,0 +1,18 @@
+.container-fluid {
+    padding: 6vh;
+}
+
+.text-uppercase {
+    font-size: 5vh;
+}
+
+.list-unstyled {
+    font-size: 3vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.footer-copyright {
+    background-color: rgb(30, 30, 30);
+    color: rgb(115, 111, 111);
+}

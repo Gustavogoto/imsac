@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&display=swap');
+
+.Home{
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+#titulo-home{
+    text-align: center;
+    font-size: 20vh;
+    font-family: 'Playfair Display', serif;
+    margin: 1vh 0 1vh 0;
+}
+#titulo-sub{
+    font-size: 2.5vh;
+    text-align: center  ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 7vh;
+}
+
+#menu_home {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 2.5vh;
+    margin: 0 3rem 2rem 3rem;
+}
+
+#opcao-titulo, #txt_projetos {
+    text-align: center;
+    padding-top: 7vh;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#opcao-itens, #projetos {
+    margin-bottom: 10vh;
+}
+
+.projetos{
+    text-align: center;
+}
+
+.imagenss {
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+#txt_carro {
+    padding-top: 7vh;
+}

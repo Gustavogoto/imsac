@@ -1,0 +1,24 @@
+.Beneficios{
+    padding: 10vh;
+    text-align: center;
+}
+#beneficios-titulo{
+    text-align: center;
+    padding-top: 7vh;
+    font-weight: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#beneficios-paragrafo{
+    letter-spacing: 1px;
+    padding: 4vh;
+}
+#beneficios-titulo-topico{
+    border: 1px solid rgb(26, 26, 26);
+    font-size: 5vh;
+    padding: 3vh;
+    margin-top: 10vh;
+}
+
+.btn {
+    margin-top: 7vh;
+}

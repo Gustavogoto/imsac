@@ -1,0 +1,26 @@
+div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Estilo para o título do número aleatório */
+  h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  /* Estilo para o botão de geração de número aleatório */
+  button {
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Estilo de hover para o botão */
+  button:hover {
+    background-color: #0056b3;
+  }
