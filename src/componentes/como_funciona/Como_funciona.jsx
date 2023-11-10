@@ -2,9 +2,13 @@ import { } from 'react'
 import './Como_funciona.css'
 import Como1 from '../../imagens/como1.png'
 import Como2 from '../../imagens/como2.png'
+import styled from 'styled-components'
 
 function Como_funciona() {
-
+   const img = styled.img`
+   width: 50%;
+   border-radius: 100px;
+   `
    return (
       <div className='body'>
          <div className='body-cabecalho'>

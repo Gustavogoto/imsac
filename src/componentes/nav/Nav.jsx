@@ -16,6 +16,7 @@ function ColorSchemesExample() {
                 <Nav.Link href="/Quem_somos">Quem somos</Nav.Link>
                 <Nav.Link href="/Como_funciona">Como Funciona</Nav.Link>
                 <Nav.Link href="/calculo">Cálculo</Nav.Link>
+                <Nav.Link href="/formulario">Formulario</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

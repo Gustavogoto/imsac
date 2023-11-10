@@ -9,6 +9,7 @@ import Carousels from './componentes/carousels/Carousels'
 import Como_funciona from './componentes/como_funciona/Como_funciona'
 import Body from './componentes/Body/body'
 import Calculo from './componentes/calculo/Calculo'
+import Formulario from './componentes/formulario/formulario'
 
 
 
@@ -28,6 +29,7 @@ function App() {
               <Route path='/quem_somos' element = {<Quem_somos/>}></Route>
               <Route path='/calculo' element = {<Calculo/>}></Route>
               <Route path='/Body' element = {<Body/>}></Route>
+              <Route path='/formulario' element = {<Formulario/>}></Route>
             </Routes>
         </BrowserRouter>
         <Footer/>
